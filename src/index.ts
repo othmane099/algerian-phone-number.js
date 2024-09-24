@@ -95,5 +95,5 @@ export namespace AlgerianPhoneNumber {
     }
 }
 
-const mobileNumberPattern = /^(00213|\+213|0)(7)[0-9]{8}/;
+const mobileNumberPattern = /^(00213|\+213|0)(5|6|7)[0-9]{8}/;
 const landlineNumberPattern = /^(00213|\+213|0)(49|27|29|32|33|34|25|26|37|43|46|21|23|36|48|39|38|31|45|35|41|24)[0-9]{6}/;
